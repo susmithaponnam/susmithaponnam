@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susmithaponnam
 - 👀 I’m interested in learning and programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning AI Engineering
 - 📫 You can reach me through-https://www.linkedin.com/in/susmitha-ponnam-4a2871247/
 
 <!---
